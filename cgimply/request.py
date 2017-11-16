@@ -4,7 +4,7 @@
 
 
 import cgi
-from env import ENV
+from .env import ENV
 
 
 # Данные, отправленные методом POST
